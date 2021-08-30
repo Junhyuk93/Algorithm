@@ -5,6 +5,8 @@ a, b= map(int, sys.stdin.readline().split())
 x_list = []
 y_list = []
 
+
+
 for i in range(b):
     x, y= map(int, sys.stdin.readline().split())
     x_list.append(x)
